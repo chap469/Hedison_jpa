@@ -1,0 +1,6 @@
+INSERT INTO POKEMON VALUES ('1',10,'Bulbasaur','Normal');
+INSERT INTO POKEMON VALUES ('2',10,'Charmander','Rock');
+INSERT INTO POKEMON VALUES ('3',13,'Squirtle','Grass');
+INSERT INTO POKEMON VALUES ('4',14,'Caterpie','Ice');
+INSERT INTO POKEMON VALUES ('5',15,'Weedle','Ice');
+INSERT INTO POKEMON VALUES ('6',16,'Pidgey','Dark');

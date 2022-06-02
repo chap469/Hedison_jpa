@@ -1,0 +1,6 @@
+#Helidon Project Configuration
+#Thu Jun 02 03:06:40 IST 2022
+schema.version=1.1.0
+helidon.version=2.5.0
+project.flavor=mp
+project.directory=C\:\\Users\\omsai\\Desktop\\Pokemon\\POKIMONCURD
